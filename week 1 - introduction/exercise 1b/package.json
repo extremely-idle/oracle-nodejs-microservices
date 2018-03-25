@@ -1,0 +1,14 @@
+{
+    "name": "oracle-nodejs-microservice-week1-homework",
+    "version": "0.1.0",
+    "description": "Oracle NodeJS mircroservices week 1b homework",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "~1.17.2",
+        "express": "~4.15.3",
+        "nunjucks": "~2.2.0",
+        "consolidate": "~0.13.1"
+    },
+    "author": "Ross Moug",
+    "license": "0BSD"
+}
